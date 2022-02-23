@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from the Polish camp and the terms upon which his Most Christian Majesty proffers to make a peace with the Republique of Genoa. From the Polish camp at Soochin, the 2d. of October. 1684.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41935</idno>
+            <idno type="STC">Wing G1737</idno>
+            <idno type="STC">ESTC R216276</idno>
+            <idno type="EEBO-CITATION">99828014</idno>
+            <idno type="PROQUEST">99828014</idno>
+            <idno type="VID">32441</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32441)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1925:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from the Polish camp and the terms upon which his Most Christian Majesty proffers to make a peace with the Republique of Genoa. From the Polish camp at Soochin, the 2d. of October. 1684.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by E. Mallet, in Black-Horse-Alley near Fleet-Bridge,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Broadside describing Turkish troop movements, and listing the proposed peace terms of the French in their war against Genoa.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Austro-Turkish War, 1683-1699 --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  1643-1715 --  Early works to 1800.</term>
+               <term>Genoa (Italy) --  History --  1528-1789 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:32441:1" rendition="simple:additions"/>
+            <head>GREAT NEWS FROM THE Poliſh Camp, and the Terms upon which his <hi>Moſt Chriſtian Majeſty</hi> proffers to make a Peace with the Republique of GENOA.</head>
+            <opener>
+               <dateline>From the <hi>Poliſh Camp</hi> at <hi>Soochin,</hi> 
+                  <date>the 2d. of <hi>October.</hi> 1684.</date>
+               </dateline>
+            </opener>
+            <p>THe Rain hath continued here, for four Weeks toge<g ref="char:EOLhyphen"/>ther, which hath ſo ſwelled the <hi>Neiſter,</hi> that notwith<g ref="char:EOLhyphen"/>ſtanding all Endeavours, it hath ruined our Bridge, ſo that only a part of our Army got over.</p>
+            <p>The Rains have ſo far incommoded us, that we as well as our Horſes ſtand in Mud, and want forrage.</p>
+            <p>We alſo, are not freed from an Invaſion of the <hi>Tartars,</hi> for they in a great Body having already paſt the River, and laid the Country in ruin.</p>
+            <p>His Majeſty is much diſpleaſed, being prevented in his de<g ref="char:EOLhyphen"/>ſigns if he had got over the River: But he reſolves to put a good Garriſon in <hi>Suaint</hi> and <hi>Soochin,</hi> and then to march for <hi>Camminack,</hi> with hopes, that though he cannot beſiege that place, that yet he ſhall find an opportunity in <hi>Moldavia</hi> to get over the River.</p>
+            <p>'Tis ſaid theſe <hi>Tartars</hi> are 60000 ſtrong, under Command of the <hi>Cham</hi> and his Son.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:32441:2"/>
+               <head>Conditions, on which his Moſt Christian Majeſty proffers to give a Peacet <hi>Genoa,</hi> are as followeth, <hi>Viz.</hi>
+               </head>
+               <p n="1">1. THat the Duke and four <hi>Senators</hi> ſhall come in per<g ref="char:EOLhyphen"/>ſon and ſubmit to his Majeſty.</p>
+               <p n="2">2. That the <hi>Genovees</hi> ſhall obſerve an equal Newtrallity, and not Engage in the affairs of other Princes.</p>
+               <p n="3">3. That they ſhall diſ-arm all their Gallies but ſix, and ſhall Arm no more without the conſent of his Moſt Chriſtian Majeſty.</p>
+               <p n="4">4 That they ſhall give free paſſage, and being to the <hi>Salt</hi> in <hi>Savonia,</hi> that ſo it may paſs freely to <hi>Monferrat.</hi>
+               </p>
+               <p n="5">5. That all the French Kings Subjects, that are forced from their Goods and Eſtates, ſhall be reſtored, and re<g ref="char:EOLhyphen"/>imburſed; and that Juſtice ſhall be Adminiſtred to the French Subjects, that have any pretences on thoſe of <hi>Genoa.</hi>
+               </p>
+               <p n="6">6. That Reſtitution ſhall be made of thoſe Goods taken out of the Houſe of <hi>Freſque,</hi> and that 100000. Crowns ſhall be paid in part to the Earl of <hi>Freſque:</hi> But if they have any pretence, to any of the Goods be<g ref="char:EOLhyphen"/>longing to that Houſe, they ſhall be heard, and his Ma<g ref="char:EOLhyphen"/>jeſty will do them Juſtice.</p>
+               <p n="7">7. In Caſe of Refuſal, they muſt expect no peace or quiet with <hi>France,</hi> and that this was the laſt Reſolution of that King.</p>
+               <p>To all which the <hi>Genoa</hi> Reſident (and Priſoner in the <hi>Baſtile</hi> in <hi>Paris</hi>) anſwered as followeth,</p>
+               <p>If the King will ſee the Duke and <hi>Senators,</hi> he muſt go and ſee them at <hi>Genoa,</hi> or fetch them <hi>per</hi> force, and that he could give no other anſwer.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Mallet,</hi> in <hi>Black-Horſe-Alley</hi> near <hi>Fleet-Bridge,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
